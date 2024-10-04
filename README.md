@@ -1,8 +1,8 @@
-Banking Dashboard
+# Banking Dashboard
 
 A simple banking dashboard built using HTML, CSS, and JavaScript. This project demonstrates how to handle user input for deposits and withdrawals, updating the balance in real-time using JavaScript.
 
-Features
+## Features
 
 - Deposit money into your account.
 - Withdraw money from your account.
